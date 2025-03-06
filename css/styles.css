@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #272727;
+    color: yellowgreen;
+}
+
+h1, p{
+    padding-block-start: 1.5rem;
+}
+
+a{
+    color: crimson;
+    padding: .5rem;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1, h2{
+    color: tomato;
+}
