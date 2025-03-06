@@ -6,8 +6,8 @@
 
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-color: #272727;
-    color: yellowgreen;
+    background-color: #f1d4d4;
+    color: rgb(50, 53, 205);
 }
 
 h1, p{
@@ -28,4 +28,10 @@ h1, h2{
     color: white;
     font-weight: bold;
     text-align: center;
+}
+
+footer {
+    padding: 2rem;
+    background-color: #000004;
+    color: white;
 }
